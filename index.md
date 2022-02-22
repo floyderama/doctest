@@ -4,7 +4,7 @@ This site is basically just a testing ground for me.
 
 This is something of a _mock up_.
 
-#***Hello Gomboc!*** 
+# ***Hello Gomboc!*** 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
